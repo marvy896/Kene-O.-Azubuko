@@ -252,7 +252,7 @@ I'm open to collaborating on:
 📧 **Email:** [onyex896@gmail.com](mailto:onyex896@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/onyedika-kenechukwu-azubuko](https://www.linkedin.com/in/onyedika-kenechukwu-azubuko/)
 🐙 **GitHub:** [github.com/marvy896](https://github.com/marvy896)
-🌐 **Portfolio:** [marvy896.github.io](https://marvy896.github.io/)
+
 
 ---
 
