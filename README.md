@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marvel Kene</h1>
+<h1 align="center">Hi 👋, I'm Kene O Azubuko</h1>
 
 <h3 align="center">AI & Automation Developer • Full-Stack Developer • AI & Robotics Enthusiast • Data & Technology Professional 🇳🇬</h3>
 
