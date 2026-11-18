@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kene O Azubuko</h1>
 
-<h3 align="center">AI & Automation Developer • Full-Stack Developer • AI & Robotics Enthusiast • Data & Technology Professional 🇳🇬</h3>
+<h3 align="center">Technology & AI Professional | Data Strategy & Digital Transformation | Robotics Education Researcher | Institutional Leadership & Social Impact 🇳🇬</h3>
 
 <p align="center">
   <a href="https://github.com/marvy896">
